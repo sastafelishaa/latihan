@@ -1,0 +1,28 @@
+body {
+    background-image: url("bg1.jpg") ;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{  
+    padding: 20px 25px; 
+    width: 100%;
+    background-color: rgb(203,196,183);
+    box-shadow: 0 0 10px rgba(255,255,255,.3);
+}
+.box {
+    padding: 20px 25px; 
+    width: 100%;
+    text-align: center;
+    background-color: rgb(203,196,183);
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+header {
+    text-align: center;
+}
+table {
+    background-color: rgb(203,196,183);
+}
